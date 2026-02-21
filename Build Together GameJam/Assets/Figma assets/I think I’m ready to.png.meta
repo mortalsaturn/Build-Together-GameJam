@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 57114357b790f4b458b8f1fadd945094
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7513170367411234650
+    second: "I think I\u2019m ready to_0"
+  - first:
+      213: -4706789211013783916
+    second: "I think I\u2019m ready to_1"
+  - first:
+      213: 1899516562461181714
+    second: "I think I\u2019m ready to_2"
+  - first:
+      213: 1680300701126511945
+    second: "I think I\u2019m ready to_3"
+  - first:
+      213: -1406156644240319862
+    second: "I think I\u2019m ready to_4"
+  - first:
+      213: 1921295733370423201
+    second: "I think I\u2019m ready to_5"
+  - first:
+      213: 419566408814756601
+    second: "I think I\u2019m ready to_6"
+  - first:
+      213: 8933295229879593516
+    second: "I think I\u2019m ready to_7"
+  - first:
+      213: -2790112045375567317
+    second: "I think I\u2019m ready to_8"
+  - first:
+      213: 5240812788735259699
+    second: "I think I\u2019m ready to_9"
+  - first:
+      213: 3795546229577836234
+    second: "I think I\u2019m ready to_10"
+  - first:
+      213: 2464571441110305213
+    second: "I think I\u2019m ready to_11"
+  - first:
+      213: 210446617851976571
+    second: "I think I\u2019m ready to_12"
+  - first:
+      213: 2642079528565541625
+    second: "I think I\u2019m ready to_13"
+  - first:
+      213: 3763560580277490512
+    second: "I think I\u2019m ready to_14"
+  - first:
+      213: -6604583180079452080
+    second: "I think I\u2019m ready to_15"
+  - first:
+      213: -2370022145411672451
+    second: "I think I\u2019m ready to_16"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "I think I\u2019m ready to_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 6
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57a98684a4244860800000000000000
+      internalID: 7513170367411234650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I think I\u2019m ready to_1"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 15
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ed1e476202eaeb0800000000000000
+      internalID: -4706789211013783916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I think I\u2019m ready to_2"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 14
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217487edf307c5a10800000000000000
+      internalID: 1899516562461181714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I think I\u2019m ready to_3"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 52
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d4c76c590a15710800000000000000
+      internalID: 1680300701126511945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I think I\u2019m ready to_4"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 15
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a10817bf35c7ce0800000000000000
+      internalID: -1406156644240319862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I think I\u2019m ready to_5"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 15
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a784004a40d9aa10800000000000000
+      internalID: 1921295733370423201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I think I\u2019m ready to_6"
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 49
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f207150d6992d500800000000000000
+      internalID: 419566408814756601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I think I\u2019m ready to_7"
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 15
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a2aa25ea079fb70800000000000000
+      internalID: 8933295229879593516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I think I\u2019m ready to_8"
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 15
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ac9db90e78749d0800000000000000
+      internalID: -2790112045375567317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I think I\u2019m ready to_9"
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 15
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334b3eed67b1bb840800000000000000
+      internalID: 5240812788735259699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I think I\u2019m ready to_10"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 15
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac66f86af2d7ca430800000000000000
+      internalID: 3795546229577836234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I think I\u2019m ready to_11"
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 15
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9c3f6faaae33220800000000000000
+      internalID: 2464571441110305213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I think I\u2019m ready to_12"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 14
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bdf3d7518abe200800000000000000
+      internalID: 210446617851976571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I think I\u2019m ready to_13"
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 15
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa0b78355d8aa420800000000000000
+      internalID: 2642079528565541625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I think I\u2019m ready to_14"
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 15
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0535a16586ada3430800000000000000
+      internalID: 3763560580277490512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I think I\u2019m ready to_15"
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05038dd179ec754a0800000000000000
+      internalID: -6604583180079452080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I think I\u2019m ready to_16"
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 15
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d769de86a6dfb1fd0800000000000000
+      internalID: -2370022145411672451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "I think I\u2019m ready to_0": 7513170367411234650
+      "I think I\u2019m ready to_1": -4706789211013783916
+      "I think I\u2019m ready to_10": 3795546229577836234
+      "I think I\u2019m ready to_11": 2464571441110305213
+      "I think I\u2019m ready to_12": 210446617851976571
+      "I think I\u2019m ready to_13": 2642079528565541625
+      "I think I\u2019m ready to_14": 3763560580277490512
+      "I think I\u2019m ready to_15": -6604583180079452080
+      "I think I\u2019m ready to_16": -2370022145411672451
+      "I think I\u2019m ready to_2": 1899516562461181714
+      "I think I\u2019m ready to_3": 1680300701126511945
+      "I think I\u2019m ready to_4": -1406156644240319862
+      "I think I\u2019m ready to_5": 1921295733370423201
+      "I think I\u2019m ready to_6": 419566408814756601
+      "I think I\u2019m ready to_7": 8933295229879593516
+      "I think I\u2019m ready to_8": -2790112045375567317
+      "I think I\u2019m ready to_9": 5240812788735259699
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

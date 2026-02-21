@@ -1,0 +1,3419 @@
+fileFormatVersion: 2
+guid: d25bcd74a20154ab19c3cfa0dc266c0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2297569700814216685
+    second: Instuct Text_0
+  - first:
+      213: 3802886647746616922
+    second: Instuct Text_1
+  - first:
+      213: 679335934567218065
+    second: Instuct Text_2
+  - first:
+      213: 5653080838566921868
+    second: Instuct Text_3
+  - first:
+      213: -3243515225723036272
+    second: Instuct Text_4
+  - first:
+      213: 3228242535780913349
+    second: Instuct Text_5
+  - first:
+      213: 7275496929265221982
+    second: Instuct Text_6
+  - first:
+      213: 4873350268792322356
+    second: Instuct Text_7
+  - first:
+      213: 7887931619590312735
+    second: Instuct Text_8
+  - first:
+      213: 4512844322771327361
+    second: Instuct Text_9
+  - first:
+      213: 1518055909990786500
+    second: Instuct Text_10
+  - first:
+      213: 7986903843614665219
+    second: Instuct Text_11
+  - first:
+      213: -1875443669340104099
+    second: Instuct Text_12
+  - first:
+      213: 1581982468999820370
+    second: Instuct Text_13
+  - first:
+      213: -4649751185956306896
+    second: Instuct Text_14
+  - first:
+      213: -8894615838105977103
+    second: Instuct Text_15
+  - first:
+      213: 151056763768074756
+    second: Instuct Text_16
+  - first:
+      213: -8591328531457679212
+    second: Instuct Text_17
+  - first:
+      213: -1054964094652147537
+    second: Instuct Text_18
+  - first:
+      213: 4045089627465887889
+    second: Instuct Text_19
+  - first:
+      213: 16124446114442894
+    second: Instuct Text_20
+  - first:
+      213: -2080771218081928811
+    second: Instuct Text_21
+  - first:
+      213: -2006122210794559692
+    second: Instuct Text_22
+  - first:
+      213: -5843478837175329499
+    second: Instuct Text_23
+  - first:
+      213: -8819463360773017997
+    second: Instuct Text_24
+  - first:
+      213: -4109580915407469448
+    second: Instuct Text_25
+  - first:
+      213: 776696391281541019
+    second: Instuct Text_26
+  - first:
+      213: -560009730581047310
+    second: Instuct Text_27
+  - first:
+      213: 2047553717847467234
+    second: Instuct Text_28
+  - first:
+      213: 6759344636046670245
+    second: Instuct Text_29
+  - first:
+      213: 1742471367758307072
+    second: Instuct Text_30
+  - first:
+      213: 5780972876338568387
+    second: Instuct Text_31
+  - first:
+      213: -4620580290645371623
+    second: Instuct Text_32
+  - first:
+      213: 5625889731184794200
+    second: Instuct Text_33
+  - first:
+      213: 2842849580175888027
+    second: Instuct Text_34
+  - first:
+      213: -117734984112679973
+    second: Instuct Text_35
+  - first:
+      213: -8789017555469224663
+    second: Instuct Text_36
+  - first:
+      213: 6082016580752174016
+    second: Instuct Text_37
+  - first:
+      213: 1786388410657295723
+    second: Instuct Text_38
+  - first:
+      213: 6504566674630235789
+    second: Instuct Text_39
+  - first:
+      213: 6878373160685332676
+    second: Instuct Text_40
+  - first:
+      213: 5634678360851069237
+    second: Instuct Text_41
+  - first:
+      213: 55315152937242475
+    second: Instuct Text_42
+  - first:
+      213: 5653339708714213424
+    second: Instuct Text_43
+  - first:
+      213: 2455303745201451961
+    second: Instuct Text_44
+  - first:
+      213: -2452836485909046184
+    second: Instuct Text_45
+  - first:
+      213: -4495395294359224369
+    second: Instuct Text_46
+  - first:
+      213: -7228024794462565990
+    second: Instuct Text_47
+  - first:
+      213: -2063174470544169578
+    second: Instuct Text_48
+  - first:
+      213: 6437053033664082193
+    second: Instuct Text_49
+  - first:
+      213: 8405598179837391412
+    second: Instuct Text_50
+  - first:
+      213: 8010269688575509736
+    second: Instuct Text_51
+  - first:
+      213: 7042139205026899961
+    second: Instuct Text_52
+  - first:
+      213: -7225505681655055036
+    second: Instuct Text_53
+  - first:
+      213: 6858996176636209861
+    second: Instuct Text_54
+  - first:
+      213: 1890685746321226105
+    second: Instuct Text_55
+  - first:
+      213: 8923540295551935529
+    second: Instuct Text_56
+  - first:
+      213: -4286207138605442163
+    second: Instuct Text_57
+  - first:
+      213: 1132619152928728496
+    second: Instuct Text_58
+  - first:
+      213: 3530569321602256450
+    second: Instuct Text_59
+  - first:
+      213: -4567222024022445256
+    second: Instuct Text_60
+  - first:
+      213: 4535345874222727762
+    second: Instuct Text_61
+  - first:
+      213: -8374229696052612285
+    second: Instuct Text_62
+  - first:
+      213: -4125758325645864680
+    second: Instuct Text_63
+  - first:
+      213: 7881182664592855914
+    second: Instuct Text_64
+  - first:
+      213: 1005440637923595453
+    second: Instuct Text_65
+  - first:
+      213: -2339869612201336284
+    second: Instuct Text_66
+  - first:
+      213: -90176133220060052
+    second: Instuct Text_67
+  - first:
+      213: 7247761066752221209
+    second: Instuct Text_68
+  - first:
+      213: 4082025942692676863
+    second: Instuct Text_69
+  - first:
+      213: 3675990660372594098
+    second: Instuct Text_70
+  - first:
+      213: 2724532080712018926
+    second: Instuct Text_71
+  - first:
+      213: 8180196520903474881
+    second: Instuct Text_72
+  - first:
+      213: 5871374846608742341
+    second: Instuct Text_73
+  - first:
+      213: -4030578883053921180
+    second: Instuct Text_74
+  - first:
+      213: 2137037111637218308
+    second: Instuct Text_75
+  - first:
+      213: 7575105947015994650
+    second: Instuct Text_76
+  - first:
+      213: -990021701624496597
+    second: Instuct Text_77
+  - first:
+      213: -361798228305116421
+    second: Instuct Text_78
+  - first:
+      213: 528071196251749662
+    second: Instuct Text_79
+  - first:
+      213: -1891889498712312339
+    second: Instuct Text_80
+  - first:
+      213: -2035244580760229848
+    second: Instuct Text_81
+  - first:
+      213: -4721378141795940472
+    second: Instuct Text_82
+  - first:
+      213: 8860623506622211399
+    second: Instuct Text_83
+  - first:
+      213: -9025474105025446400
+    second: Instuct Text_84
+  - first:
+      213: 5838110904338038796
+    second: Instuct Text_85
+  - first:
+      213: -1538661573369345089
+    second: Instuct Text_86
+  - first:
+      213: -1738335653119366459
+    second: Instuct Text_87
+  - first:
+      213: -4778010495930924001
+    second: Instuct Text_88
+  - first:
+      213: -660082738800584434
+    second: Instuct Text_89
+  - first:
+      213: 3221040424603799513
+    second: Instuct Text_90
+  - first:
+      213: 6020013430615592761
+    second: Instuct Text_91
+  - first:
+      213: -1209564278964563706
+    second: Instuct Text_92
+  - first:
+      213: -2328557987408548530
+    second: Instuct Text_93
+  - first:
+      213: -3298426129589652794
+    second: Instuct Text_94
+  - first:
+      213: -8561929499372563473
+    second: Instuct Text_95
+  - first:
+      213: -6207293686957520872
+    second: Instuct Text_96
+  - first:
+      213: 352579556667014375
+    second: Instuct Text_97
+  - first:
+      213: 823644536731513716
+    second: Instuct Text_98
+  - first:
+      213: -7918915165037474588
+    second: Instuct Text_99
+  - first:
+      213: -7354080550566972739
+    second: Instuct Text_100
+  - first:
+      213: 651689898536349138
+    second: Instuct Text_101
+  - first:
+      213: -3717871391323563343
+    second: Instuct Text_102
+  - first:
+      213: -4412283693554036295
+    second: Instuct Text_103
+  - first:
+      213: 7072453416532561779
+    second: Instuct Text_104
+  - first:
+      213: 5839578160312120603
+    second: Instuct Text_105
+  - first:
+      213: 1094732090887851931
+    second: Instuct Text_106
+  - first:
+      213: 1702777036902537903
+    second: Instuct Text_107
+  - first:
+      213: 8522971072283040577
+    second: Instuct Text_108
+  - first:
+      213: 4568522490467963367
+    second: Instuct Text_109
+  - first:
+      213: 874840713114290133
+    second: Instuct Text_110
+  - first:
+      213: -3419686206943005252
+    second: Instuct Text_111
+  - first:
+      213: 9183933167215976876
+    second: Instuct Text_112
+  - first:
+      213: -4216647933871622418
+    second: Instuct Text_113
+  - first:
+      213: 7253550802931885922
+    second: Instuct Text_114
+  - first:
+      213: 6707827306479333262
+    second: Instuct Text_115
+  - first:
+      213: 1018885329128768070
+    second: Instuct Text_116
+  - first:
+      213: 4452060264153374159
+    second: Instuct Text_117
+  - first:
+      213: -5217484045558798795
+    second: Instuct Text_118
+  - first:
+      213: 6733616133001213800
+    second: Instuct Text_119
+  - first:
+      213: 652040155449956867
+    second: Instuct Text_120
+  - first:
+      213: -8245992376689461697
+    second: Instuct Text_121
+  - first:
+      213: -380664106829857078
+    second: Instuct Text_122
+  - first:
+      213: -8569281617738455536
+    second: Instuct Text_123
+  - first:
+      213: -932252102460221416
+    second: Instuct Text_124
+  - first:
+      213: -4159895505663116719
+    second: Instuct Text_125
+  - first:
+      213: 8611183695195119368
+    second: Instuct Text_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Instuct Text_0
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 370
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded5bb7487b92ef10800000000000000
+      internalID: 2297569700814216685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 369
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e5300f14196c430800000000000000
+      internalID: 3802886647746616922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 369
+        width: 8
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b7907ee6c7d6900800000000000000
+      internalID: 679335934567218065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_3
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 369
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8649554217c37e40800000000000000
+      internalID: 5653080838566921868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_4
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 369
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d153b4618bcf2d0800000000000000
+      internalID: -3243515225723036272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_5
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 369
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0170a7b750dcc20800000000000000
+      internalID: 3228242535780913349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_6
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 369
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e518c41f8e1c7f460800000000000000
+      internalID: 7275496929265221982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_7
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 369
+        width: 8
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439bb65df3e91a340800000000000000
+      internalID: 4873350268792322356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_8
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 410
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1390461400977d60800000000000000
+      internalID: 7887931619590312735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_9
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 369
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1895c616008d0ae30800000000000000
+      internalID: 4512844322771327361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_10
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 410
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5ee20aec7311510800000000000000
+      internalID: 1518055909990786500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_11
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 410
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30aaad5babe27de60800000000000000
+      internalID: 7986903843614665219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_12
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 369
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a5ab45be519f5e0800000000000000
+      internalID: -1875443669340104099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_13
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 369
+        width: 8
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25431a18ca454f510800000000000000
+      internalID: 1581982468999820370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_14
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 369
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0308f1b8ee3c87fb0800000000000000
+      internalID: -4649751185956306896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_15
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 369
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe312c550aff8480800000000000000
+      internalID: -8894615838105977103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_16
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 369
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402f0598359a81200800000000000000
+      internalID: 151056763768074756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_17
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 369
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49069cd283875c880800000000000000
+      internalID: -8591328531457679212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_18
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 369
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8977fceb30c51f0800000000000000
+      internalID: -1054964094652147537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_19
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 369
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190b8b9959b032830800000000000000
+      internalID: 4045089627465887889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_20
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 369
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ee9da2919493000800000000000000
+      internalID: 16124446114442894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_21
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 369
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599ae5ff99d9f13e0800000000000000
+      internalID: -2080771218081928811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_22
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 369
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437a1996a72d824e0800000000000000
+      internalID: -2006122210794559692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_23
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 356
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dd6a925fac7eea0800000000000000
+      internalID: -5843478837175329499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_24
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 356
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e2d870dc8fa9580800000000000000
+      internalID: -8819463360773017997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_25
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 369
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874c9615ee5d7f6c0800000000000000
+      internalID: -4109580915407469448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_26
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 369
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ff9a4b04167ca00800000000000000
+      internalID: 776696391281541019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_27
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 369
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f754f9fd127a38f0800000000000000
+      internalID: -560009730581047310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_28
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 369
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e424da024f5a6c10800000000000000
+      internalID: 2047553717847467234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_29
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 369
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9f00a42240ecd50800000000000000
+      internalID: 6759344636046670245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_30
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 369
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fd58a1a708e2810800000000000000
+      internalID: 1742471367758307072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_31
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 369
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc145eb3342a3050800000000000000
+      internalID: 5780972876338568387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_32
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 369
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91559efd4b660efb0800000000000000
+      internalID: -4620580290645371623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_33
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 369
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a99cc37ec231e40800000000000000
+      internalID: 5625889731184794200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_34
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 352
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e804091a4d37720800000000000000
+      internalID: 2842849580175888027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_35
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 369
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3d35ed7a8bd5ef0800000000000000
+      internalID: -117734984112679973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_36
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 287
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925b5997913270680800000000000000
+      internalID: -8789017555469224663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_37
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 287
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbe4c53bd9a76450800000000000000
+      internalID: 6082016580752174016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_38
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 287
+        width: 10
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d4a187bc68ac810800000000000000
+      internalID: 1786388410657295723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_39
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 329
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86dd2b8decd44a50800000000000000
+      internalID: 6504566674630235789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_40
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 287
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8ea3b42f3e47f50800000000000000
+      internalID: 6878373160685332676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_41
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 287
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539bb1a8d16623e40800000000000000
+      internalID: 5634678360851069237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_42
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 287
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f4589a6d484c000800000000000000
+      internalID: 55315152937242475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_43
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 287
+        width: 10
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030658c2382b47e40800000000000000
+      internalID: 5653339708714213424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_44
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 287
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b33b6c5fbdf21220800000000000000
+      internalID: 2455303745201451961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_45
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 287
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c16453636c5fdd0800000000000000
+      internalID: -2452836485909046184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_46
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 329
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf71c22cc52d91c0800000000000000
+      internalID: -4495395294359224369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_47
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 287
+        width: 9
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99c752ceb5e0bb90800000000000000
+      internalID: -7228024794462565990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_48
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 287
+        width: 10
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6956f8d00c12e53e0800000000000000
+      internalID: -2063174470544169578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_49
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 287
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111f5ef01a1055950800000000000000
+      internalID: 6437053033664082193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_50
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 287
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432b0e1820fa6a470800000000000000
+      internalID: 8405598179837391412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_51
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 287
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e44f9e67d13a2f60800000000000000
+      internalID: 8010269688575509736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_52
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 287
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7ea7ecb44bab160800000000000000
+      internalID: 7042139205026899961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_53
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 287
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d326a6dd8d9bb90800000000000000
+      internalID: -7225505681655055036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_54
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 287
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cae920aeac003f50800000000000000
+      internalID: 6858996176636209861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_55
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 287
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979fe534ba01d3a10800000000000000
+      internalID: 1890685746321226105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_56
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 287
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924e14fae98c6db70800000000000000
+      internalID: 8923540295551935529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_57
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 287
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bdda511555484c0800000000000000
+      internalID: -4286207138605442163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_58
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 287
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5ee146e1fd7bf00800000000000000
+      internalID: 1132619152928728496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_59
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 287
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e8efc971a1ff030800000000000000
+      internalID: 3530569321602256450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_60
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 287
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8333dcf64c7fd90c0800000000000000
+      internalID: -4567222024022445256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_61
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 287
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25244961b09c0fe30800000000000000
+      internalID: 4535345874222727762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_62
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 287
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343b143c572c8cb80800000000000000
+      internalID: -8374229696052612285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_63
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 287
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81194ca79ac5eb6c0800000000000000
+      internalID: -4125758325645864680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_64
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 287
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63160d80e59f5d60800000000000000
+      internalID: 7881182664592855914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_65
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 287
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db49d22eeea04fd00800000000000000
+      internalID: 1005440637923595453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_66
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 287
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42222002cfc178fd0800000000000000
+      internalID: -2339869612201336284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_67
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 287
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64333cd841afbef0800000000000000
+      internalID: -90176133220060052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_68
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 287
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9102ca83a48359460800000000000000
+      internalID: 7247761066752221209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_69
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 247
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff44026a7f446a830800000000000000
+      internalID: 4082025942692676863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_70
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 205
+        width: 10
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd7925870eb30330800000000000000
+      internalID: 3675990660372594098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_71
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 205
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebeef10e7b7fc520800000000000000
+      internalID: 2724532080712018926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_72
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 247
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce765d2565e58170800000000000000
+      internalID: 8180196520903474881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_73
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 205
+        width: 10
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7174ba0505b7150800000000000000
+      internalID: 5871374846608742341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_74
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 247
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c516c5cd18018c0800000000000000
+      internalID: -4030578883053921180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_75
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 205
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40496f63ee748ad10800000000000000
+      internalID: 2137037111637218308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_76
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 205
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d56d369be202960800000000000000
+      internalID: 7575105947015994650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_77
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 205
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e7ebaf18cb242f0800000000000000
+      internalID: -990021701624496597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_78
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 205
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf20281ad62aafaf0800000000000000
+      internalID: -361798228305116421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_79
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 246
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d73b484f5145700800000000000000
+      internalID: 528071196251749662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_80
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 205
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5f5fa4688aeb5e0800000000000000
+      internalID: -1891889498712312339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_81
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 246
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8286fb446db51c3e0800000000000000
+      internalID: -2035244580760229848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_82
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 205
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88785ff489b4a7eb0800000000000000
+      internalID: -4721378141795940472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_83
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 205
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74561b8322247fa70800000000000000
+      internalID: 8860623506622211399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_84
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 205
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eb878de131fb280800000000000000
+      internalID: -9025474105025446400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_85
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 205
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0047649fe2250150800000000000000
+      internalID: 5838110904338038796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_86
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 205
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbc6c1837395aae0800000000000000
+      internalID: -1538661573369345089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_87
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 205
+        width: 9
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca6c6ffee030e7e0800000000000000
+      internalID: -1738335653119366459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_88
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 205
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1403f8d4c811bdb0800000000000000
+      internalID: -4778010495930924001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_89
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 188
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e099c6f0f3ae6d6f0800000000000000
+      internalID: -660082738800584434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_90
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 205
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfceab433f63bc20800000000000000
+      internalID: 3221040424603799513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_91
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 205
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f4cead1526b8350800000000000000
+      internalID: 6020013430615592761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_92
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 205
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601d05362b3c63fe0800000000000000
+      internalID: -1209564278964563706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_93
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 190
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d6d9109dc4fafd0800000000000000
+      internalID: -2328557987408548530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_94
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 205
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c231f339e2a932d0800000000000000
+      internalID: -3298426129589652794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_95
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 205
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3d5fdbb7aed2980800000000000000
+      internalID: -8561929499372563473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_96
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 205
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8184f5487434bd9a0800000000000000
+      internalID: -6207293686957520872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_97
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 128
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecb33e1d3d94e400800000000000000
+      internalID: 352579556667014375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_98
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 128
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473b211a75c2e6b00800000000000000
+      internalID: 823644536731513716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_99
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 128
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eccc751d9c5a1290800000000000000
+      internalID: -7918915165037474588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_100
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 128
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2b8dde3be01f990800000000000000
+      internalID: -7354080550566972739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_101
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 128
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd28f982844b0900800000000000000
+      internalID: 651689898536349138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_102
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 128
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba529feaa7776cc0800000000000000
+      internalID: -3717871391323563343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_103
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 128
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b19675ab5b64c2c0800000000000000
+      internalID: -4412283693554036295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_104
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 128
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fcbee29e6662260800000000000000
+      internalID: 7072453416532561779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_105
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 128
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15788bb5695a0150800000000000000
+      internalID: 5839578160312120603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_106
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 128
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f47995905413f00800000000000000
+      internalID: 1094732090887851931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_107
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 128
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa944081ba71a710800000000000000
+      internalID: 1702777036902537903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_108
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 128
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b5c5a980da74670800000000000000
+      internalID: 8522971072283040577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_109
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 128
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1d9b00007a66f30800000000000000
+      internalID: 4568522490467963367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_110
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 14
+        width: 8
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d70a345efe042c00800000000000000
+      internalID: 874840713114290133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_111
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 14
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5fbd75385da80d0800000000000000
+      internalID: -3419686206943005252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_112
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 14
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca126d89e82e37f70800000000000000
+      internalID: 9183933167215976876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_113
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 51
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee672be7b057b75c0800000000000000
+      internalID: -4216647933871622418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_114
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 14
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2672109360ac9a460800000000000000
+      internalID: 7253550802931885922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_115
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 14
+        width: 7
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fad59456df61d50800000000000000
+      internalID: 6707827306479333262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_116
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 48
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642c39dfecec32e00800000000000000
+      internalID: 1018885329128768070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_117
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 14
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd5e73e835e8cd30800000000000000
+      internalID: 4452060264153374159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_118
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 14
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536233b67e5c797b0800000000000000
+      internalID: -5217484045558798795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_119
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 14
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867706d523c927d50800000000000000
+      internalID: 6733616133001213800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_120
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 14
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a92e411138c0900800000000000000
+      internalID: 652040155449956867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_121
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 14
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3678de5f99509d80800000000000000
+      internalID: -8245992376689461697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_122
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 14
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace3aadf20c97baf0800000000000000
+      internalID: -380664106829857078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_123
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 14
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0162a6a45cbc31980800000000000000
+      internalID: -8569281617738455536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_124
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 14
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8185fbfe6a9ff03f0800000000000000
+      internalID: -932252102460221416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_125
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 0
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ab432e3151546c0800000000000000
+      internalID: -4159895505663116719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instuct Text_126
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 14
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f9dbf52f1118770800000000000000
+      internalID: 8611183695195119368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Instuct Text_0: 2297569700814216685
+      Instuct Text_1: 3802886647746616922
+      Instuct Text_10: 1518055909990786500
+      Instuct Text_100: -7354080550566972739
+      Instuct Text_101: 651689898536349138
+      Instuct Text_102: -3717871391323563343
+      Instuct Text_103: -4412283693554036295
+      Instuct Text_104: 7072453416532561779
+      Instuct Text_105: 5839578160312120603
+      Instuct Text_106: 1094732090887851931
+      Instuct Text_107: 1702777036902537903
+      Instuct Text_108: 8522971072283040577
+      Instuct Text_109: 4568522490467963367
+      Instuct Text_11: 7986903843614665219
+      Instuct Text_110: 874840713114290133
+      Instuct Text_111: -3419686206943005252
+      Instuct Text_112: 9183933167215976876
+      Instuct Text_113: -4216647933871622418
+      Instuct Text_114: 7253550802931885922
+      Instuct Text_115: 6707827306479333262
+      Instuct Text_116: 1018885329128768070
+      Instuct Text_117: 4452060264153374159
+      Instuct Text_118: -5217484045558798795
+      Instuct Text_119: 6733616133001213800
+      Instuct Text_12: -1875443669340104099
+      Instuct Text_120: 652040155449956867
+      Instuct Text_121: -8245992376689461697
+      Instuct Text_122: -380664106829857078
+      Instuct Text_123: -8569281617738455536
+      Instuct Text_124: -932252102460221416
+      Instuct Text_125: -4159895505663116719
+      Instuct Text_126: 8611183695195119368
+      Instuct Text_13: 1581982468999820370
+      Instuct Text_14: -4649751185956306896
+      Instuct Text_15: -8894615838105977103
+      Instuct Text_16: 151056763768074756
+      Instuct Text_17: -8591328531457679212
+      Instuct Text_18: -1054964094652147537
+      Instuct Text_19: 4045089627465887889
+      Instuct Text_2: 679335934567218065
+      Instuct Text_20: 16124446114442894
+      Instuct Text_21: -2080771218081928811
+      Instuct Text_22: -2006122210794559692
+      Instuct Text_23: -5843478837175329499
+      Instuct Text_24: -8819463360773017997
+      Instuct Text_25: -4109580915407469448
+      Instuct Text_26: 776696391281541019
+      Instuct Text_27: -560009730581047310
+      Instuct Text_28: 2047553717847467234
+      Instuct Text_29: 6759344636046670245
+      Instuct Text_3: 5653080838566921868
+      Instuct Text_30: 1742471367758307072
+      Instuct Text_31: 5780972876338568387
+      Instuct Text_32: -4620580290645371623
+      Instuct Text_33: 5625889731184794200
+      Instuct Text_34: 2842849580175888027
+      Instuct Text_35: -117734984112679973
+      Instuct Text_36: -8789017555469224663
+      Instuct Text_37: 6082016580752174016
+      Instuct Text_38: 1786388410657295723
+      Instuct Text_39: 6504566674630235789
+      Instuct Text_4: -3243515225723036272
+      Instuct Text_40: 6878373160685332676
+      Instuct Text_41: 5634678360851069237
+      Instuct Text_42: 55315152937242475
+      Instuct Text_43: 5653339708714213424
+      Instuct Text_44: 2455303745201451961
+      Instuct Text_45: -2452836485909046184
+      Instuct Text_46: -4495395294359224369
+      Instuct Text_47: -7228024794462565990
+      Instuct Text_48: -2063174470544169578
+      Instuct Text_49: 6437053033664082193
+      Instuct Text_5: 3228242535780913349
+      Instuct Text_50: 8405598179837391412
+      Instuct Text_51: 8010269688575509736
+      Instuct Text_52: 7042139205026899961
+      Instuct Text_53: -7225505681655055036
+      Instuct Text_54: 6858996176636209861
+      Instuct Text_55: 1890685746321226105
+      Instuct Text_56: 8923540295551935529
+      Instuct Text_57: -4286207138605442163
+      Instuct Text_58: 1132619152928728496
+      Instuct Text_59: 3530569321602256450
+      Instuct Text_6: 7275496929265221982
+      Instuct Text_60: -4567222024022445256
+      Instuct Text_61: 4535345874222727762
+      Instuct Text_62: -8374229696052612285
+      Instuct Text_63: -4125758325645864680
+      Instuct Text_64: 7881182664592855914
+      Instuct Text_65: 1005440637923595453
+      Instuct Text_66: -2339869612201336284
+      Instuct Text_67: -90176133220060052
+      Instuct Text_68: 7247761066752221209
+      Instuct Text_69: 4082025942692676863
+      Instuct Text_7: 4873350268792322356
+      Instuct Text_70: 3675990660372594098
+      Instuct Text_71: 2724532080712018926
+      Instuct Text_72: 8180196520903474881
+      Instuct Text_73: 5871374846608742341
+      Instuct Text_74: -4030578883053921180
+      Instuct Text_75: 2137037111637218308
+      Instuct Text_76: 7575105947015994650
+      Instuct Text_77: -990021701624496597
+      Instuct Text_78: -361798228305116421
+      Instuct Text_79: 528071196251749662
+      Instuct Text_8: 7887931619590312735
+      Instuct Text_80: -1891889498712312339
+      Instuct Text_81: -2035244580760229848
+      Instuct Text_82: -4721378141795940472
+      Instuct Text_83: 8860623506622211399
+      Instuct Text_84: -9025474105025446400
+      Instuct Text_85: 5838110904338038796
+      Instuct Text_86: -1538661573369345089
+      Instuct Text_87: -1738335653119366459
+      Instuct Text_88: -4778010495930924001
+      Instuct Text_89: -660082738800584434
+      Instuct Text_9: 4512844322771327361
+      Instuct Text_90: 3221040424603799513
+      Instuct Text_91: 6020013430615592761
+      Instuct Text_92: -1209564278964563706
+      Instuct Text_93: -2328557987408548530
+      Instuct Text_94: -3298426129589652794
+      Instuct Text_95: -8561929499372563473
+      Instuct Text_96: -6207293686957520872
+      Instuct Text_97: 352579556667014375
+      Instuct Text_98: 823644536731513716
+      Instuct Text_99: -7918915165037474588
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

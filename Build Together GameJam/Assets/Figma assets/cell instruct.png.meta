@@ -1,0 +1,2353 @@
+fileFormatVersion: 2
+guid: 9c0888c8485a34f449871e9fa6fa01c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8593035781391139351
+    second: cell instruct_0
+  - first:
+      213: -3397420004682667864
+    second: cell instruct_1
+  - first:
+      213: -7072448581441963989
+    second: cell instruct_2
+  - first:
+      213: 7319252290644959196
+    second: cell instruct_3
+  - first:
+      213: -6566896865517076167
+    second: cell instruct_4
+  - first:
+      213: -8345870435661461721
+    second: cell instruct_5
+  - first:
+      213: -9216319045611975288
+    second: cell instruct_6
+  - first:
+      213: 3466807924960515537
+    second: cell instruct_7
+  - first:
+      213: -2725611460524372550
+    second: cell instruct_8
+  - first:
+      213: -6515984704748349225
+    second: cell instruct_9
+  - first:
+      213: -78940165776978805
+    second: cell instruct_10
+  - first:
+      213: -494270683219054784
+    second: cell instruct_11
+  - first:
+      213: 1346225576071950204
+    second: cell instruct_12
+  - first:
+      213: 3962524210726837910
+    second: cell instruct_13
+  - first:
+      213: 5130912321853750988
+    second: cell instruct_14
+  - first:
+      213: 4210407361092670886
+    second: cell instruct_15
+  - first:
+      213: 8789018434665082181
+    second: cell instruct_16
+  - first:
+      213: -4395196841660919177
+    second: cell instruct_17
+  - first:
+      213: 8237184359502634170
+    second: cell instruct_18
+  - first:
+      213: -8059771625258107128
+    second: cell instruct_19
+  - first:
+      213: 6176472761616830943
+    second: cell instruct_20
+  - first:
+      213: -5537170772898779745
+    second: cell instruct_21
+  - first:
+      213: -3827456503719208359
+    second: cell instruct_22
+  - first:
+      213: -5686857213016320014
+    second: cell instruct_23
+  - first:
+      213: 419053374064447792
+    second: cell instruct_24
+  - first:
+      213: 1189357442537670076
+    second: cell instruct_25
+  - first:
+      213: 3265406392796042522
+    second: cell instruct_26
+  - first:
+      213: -6688308723596510020
+    second: cell instruct_27
+  - first:
+      213: -6880638313025640073
+    second: cell instruct_28
+  - first:
+      213: 1969751542372917659
+    second: cell instruct_29
+  - first:
+      213: -5524137838605347937
+    second: cell instruct_30
+  - first:
+      213: -4751739150933541968
+    second: cell instruct_31
+  - first:
+      213: -7913125595051062694
+    second: cell instruct_32
+  - first:
+      213: 8845874720024029819
+    second: cell instruct_33
+  - first:
+      213: 6702489177979586271
+    second: cell instruct_34
+  - first:
+      213: -5016905279307102046
+    second: cell instruct_35
+  - first:
+      213: 3420272715999551661
+    second: cell instruct_36
+  - first:
+      213: 3902476006501905946
+    second: cell instruct_37
+  - first:
+      213: -8102370067969497265
+    second: cell instruct_38
+  - first:
+      213: -565688770988785049
+    second: cell instruct_39
+  - first:
+      213: 793589627009356211
+    second: cell instruct_40
+  - first:
+      213: -4830393730412224755
+    second: cell instruct_41
+  - first:
+      213: 5355272536949068168
+    second: cell instruct_42
+  - first:
+      213: -5122255215364637504
+    second: cell instruct_43
+  - first:
+      213: 5203123369579855771
+    second: cell instruct_44
+  - first:
+      213: 990799337480499834
+    second: cell instruct_45
+  - first:
+      213: -6394584829397155726
+    second: cell instruct_46
+  - first:
+      213: -4781063145401539078
+    second: cell instruct_47
+  - first:
+      213: 7338171839432082678
+    second: cell instruct_48
+  - first:
+      213: 6232465005028327956
+    second: cell instruct_49
+  - first:
+      213: 2214243501657993970
+    second: cell instruct_50
+  - first:
+      213: 7512607260724529944
+    second: cell instruct_51
+  - first:
+      213: -5833296501601971938
+    second: cell instruct_52
+  - first:
+      213: -9058710023900569245
+    second: cell instruct_53
+  - first:
+      213: 5927636522676516330
+    second: cell instruct_54
+  - first:
+      213: 8858424721007831248
+    second: cell instruct_55
+  - first:
+      213: 5669531979282205228
+    second: cell instruct_56
+  - first:
+      213: -1052197859296308839
+    second: cell instruct_57
+  - first:
+      213: -3653327676703259569
+    second: cell instruct_58
+  - first:
+      213: 5883494765693197602
+    second: cell instruct_59
+  - first:
+      213: -7868777639793395841
+    second: cell instruct_60
+  - first:
+      213: -7911807647065525286
+    second: cell instruct_61
+  - first:
+      213: 9093913575092551550
+    second: cell instruct_62
+  - first:
+      213: 3048220087609112413
+    second: cell instruct_63
+  - first:
+      213: 8418389483011149052
+    second: cell instruct_64
+  - first:
+      213: 2284825141259623338
+    second: cell instruct_65
+  - first:
+      213: -3345980830906692168
+    second: cell instruct_66
+  - first:
+      213: -164948711642819291
+    second: cell instruct_67
+  - first:
+      213: 8918453351929473559
+    second: cell instruct_68
+  - first:
+      213: -5029107819259949801
+    second: cell instruct_69
+  - first:
+      213: 3647976684212384269
+    second: cell instruct_70
+  - first:
+      213: 7496041911308159992
+    second: cell instruct_71
+  - first:
+      213: 84789694132666411
+    second: cell instruct_72
+  - first:
+      213: -1311209744211764622
+    second: cell instruct_73
+  - first:
+      213: -2924380904125026223
+    second: cell instruct_74
+  - first:
+      213: 839946364711581708
+    second: cell instruct_75
+  - first:
+      213: -6796127173884613060
+    second: cell instruct_76
+  - first:
+      213: -3339481508562329650
+    second: cell instruct_77
+  - first:
+      213: 2368785725249299405
+    second: cell instruct_78
+  - first:
+      213: 6748904335335375609
+    second: cell instruct_79
+  - first:
+      213: 7587719949502338466
+    second: cell instruct_80
+  - first:
+      213: -2234791465448562177
+    second: cell instruct_81
+  - first:
+      213: 8224249761066559253
+    second: cell instruct_82
+  - first:
+      213: -8852391854596666680
+    second: cell instruct_83
+  - first:
+      213: 9161762108010325257
+    second: cell instruct_84
+  - first:
+      213: 1707793113212023263
+    second: cell instruct_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cell instruct_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 284
+        width: 8
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7124a0ce388904770800000000000000
+      internalID: 8593035781391139351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 284
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8651c8180f9d0d0800000000000000
+      internalID: -3397420004682667864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 284
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28bfe29c7d99dd90800000000000000
+      internalID: -7072448581441963989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 325
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf5b55ed25339560800000000000000
+      internalID: 7319252290644959196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 284
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9318a3ef712bdd4a0800000000000000
+      internalID: -6566896865517076167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_5
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 284
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727c6fc9e038d2c80800000000000000
+      internalID: -8345870435661461721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 284
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d81ad78ae091080800000000000000
+      internalID: -9216319045611975288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_7
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 284
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5d7c790739c1030800000000000000
+      internalID: 3466807924960515537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_8
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 284
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd06bb41deac2ad0800000000000000
+      internalID: -2725611460524372550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_9
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 325
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d898972f629295a0800000000000000
+      internalID: -6515984704748349225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_10
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 284
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c4a54665c87eef0800000000000000
+      internalID: -78940165776978805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_11
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 284
+        width: 9
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fa6dfae6ff329f0800000000000000
+      internalID: -494270683219054784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 284
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f60516701cea210800000000000000
+      internalID: 1346225576071950204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 284
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e124a76c6bdf630800000000000000
+      internalID: 3962524210726837910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_14
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 284
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce74cd6299a43740800000000000000
+      internalID: 5130912321853750988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 284
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a55e9def2f5e6a30800000000000000
+      internalID: 4210407361092670886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_16
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 271
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d629a33bdd8f970800000000000000
+      internalID: 8789018434665082181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_17
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 284
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772d1ee52cf1103c0800000000000000
+      internalID: -4395196841660919177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_18
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 284
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcde81588b505270800000000000000
+      internalID: 8237184359502634170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_19
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 284
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fb7b9c860f52090800000000000000
+      internalID: -8059771625258107128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_20
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 271
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd11c09904d37b550800000000000000
+      internalID: 6176472761616830943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_21
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 284
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d61bce4840823b0800000000000000
+      internalID: -5537170772898779745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_22
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 271
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ade8ea69422eac0800000000000000
+      internalID: -3827456503719208359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_23
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 284
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f75bc9be793411b0800000000000000
+      internalID: -5686857213016320014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_24
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 284
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0315a0fc2d6c0d500800000000000000
+      internalID: 419053374064447792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_25
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 284
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5cc61ea42718010800000000000000
+      internalID: 1189357442537670076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_26
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 284
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15d5e930dd015d20800000000000000
+      internalID: 3265406392796042522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_27
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 284
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc32ede6aa5e23a0800000000000000
+      internalID: -6688308723596510020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_28
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 284
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779e924d8ef0380a0800000000000000
+      internalID: -6880638313025640073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_29
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 284
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b916ae27796f55b10800000000000000
+      internalID: 1969751542372917659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_30
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 284
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9352a767e15653b0800000000000000
+      internalID: -5524137838605347937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_31
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 207
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb3a430b6e6e0eb0800000000000000
+      internalID: -4751739150933541968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 207
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a0ee3623eee2290800000000000000
+      internalID: -7913125595051062694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_33
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 207
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ae3aeb03cd2ca70800000000000000
+      internalID: 8845874720024029819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_34
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 248
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd68f546566040d50800000000000000
+      internalID: 6702489177979586271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_35
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 207
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a84e1baa3f506ab0800000000000000
+      internalID: -5016905279307102046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 248
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da02d10f9ef377f20800000000000000
+      internalID: 3420272715999551661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_37
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 207
+        width: 8
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16f7007041682630800000000000000
+      internalID: 3902476006501905946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_38
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 207
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47abe3f9599e8f80800000000000000
+      internalID: -8102370067969497265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_39
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 207
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76249c75f054628f0800000000000000
+      internalID: -565688770988785049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_40
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 207
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1d357af85630b00800000000000000
+      internalID: 793589627009356211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_41
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 207
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f5185ae7ef6fcb0800000000000000
+      internalID: -4830393730412224755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 190
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8811148bfffb15a40800000000000000
+      internalID: 5355272536949068168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_43
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 207
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc7c4f35081ae8b0800000000000000
+      internalID: -5122255215364637504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_44
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 207
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f37562325353840800000000000000
+      internalID: 5203123369579855771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_45
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 207
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72b73a7fb600cd00800000000000000
+      internalID: 990799337480499834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_46
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 207
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2704ea54afed147a0800000000000000
+      internalID: -6394584829397155726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_47
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 207
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af521a1866046adb0800000000000000
+      internalID: -4781063145401539078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_48
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 207
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4cf1e986c66d560800000000000000
+      internalID: 7338171839432082678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_49
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 207
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41244cba6e92e7650800000000000000
+      internalID: 6232465005028327956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_50
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 207
+        width: 9
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2ba82bbb29abe10800000000000000
+      internalID: 2214243501657993970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_51
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 207
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b81880084224860800000000000000
+      internalID: 7512607260724529944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_52
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 207
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e115c78ecb7fb0fa0800000000000000
+      internalID: -5833296501601971938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_53
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 207
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361e2267a3ff84280800000000000000
+      internalID: -9058710023900569245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_54
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 207
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5f3cbe202334250800000000000000
+      internalID: 5927636522676516330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_55
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 207
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8e53d89527fea70800000000000000
+      internalID: 8858424721007831248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_56
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 207
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a45d3fb493eae40800000000000000
+      internalID: 5669531979282205228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_57
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 207
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991973b2f97d561f0800000000000000
+      internalID: -1052197859296308839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_58
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 190
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44cffd85d5cc4dc0800000000000000
+      internalID: -3653327676703259569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_59
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 207
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d530b315f56a150800000000000000
+      internalID: 5883494765693197602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_60
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 207
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77f39b5d6c7cc290800000000000000
+      internalID: -7868777639793395841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_61
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 207
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3b0711ddc933290800000000000000
+      internalID: -7911807647065525286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_62
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 190
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f7e750732143e70800000000000000
+      internalID: 9093913575092551550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_63
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 130
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57b62ff4047d4a20800000000000000
+      internalID: 3048220087609112413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_64
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 130
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc83cbd1a024d470800000000000000
+      internalID: 8418389483011149052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_65
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab59a64c5455bf10800000000000000
+      internalID: 2284825141259623338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_66
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 130
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd4a8c7920b091d0800000000000000
+      internalID: -3345980830906692168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_67
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 130
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5251f5c450cf5bdf0800000000000000
+      internalID: -164948711642819291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_68
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 130
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ae5a35216b4cb70800000000000000
+      internalID: 8918453351929473559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_69
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 130
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d0fdf6515053ab0800000000000000
+      internalID: -5029107819259949801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_70
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 130
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02f26b677730a230800000000000000
+      internalID: 3647976684212384269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_71
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 130
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb86f0176a470860800000000000000
+      internalID: 7496041911308159992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_72
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 130
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20446f07cb3d2100800000000000000
+      internalID: 84789694132666411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_73
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 53
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a1a3a4fa5adcde0800000000000000
+      internalID: -1311209744211764622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 53
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15031bdcf038a67d0800000000000000
+      internalID: -2924380904125026223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_75
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 53
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08b30bb4c618ab00800000000000000
+      internalID: 839946364711581708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_76
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 53
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e6a30c75e4fa1a0800000000000000
+      internalID: -6796127173884613060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_77
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 53
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf1824e247c7a1d0800000000000000
+      internalID: -3339481508562329650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_78
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 53
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc32086111e9fd020800000000000000
+      internalID: 2368785725249299405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_79
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 53
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f242ca5cbce8ad50800000000000000
+      internalID: 6748904335335375609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_80
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 53
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a55b35b71ffc4960800000000000000
+      internalID: 7587719949502338466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_81
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 53
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff12ddaa00d6cf0e0800000000000000
+      internalID: -2234791465448562177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_82
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 53
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517a6707597622270800000000000000
+      internalID: 8224249761066559253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_83
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 53
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca443e928cf52580800000000000000
+      internalID: -8852391854596666680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_84
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 53
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905e69c981e152f70800000000000000
+      internalID: 9161762108010325257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell instruct_85
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 53
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd17cd6c9cc43b710800000000000000
+      internalID: 1707793113212023263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cell instruct_0: 8593035781391139351
+      cell instruct_1: -3397420004682667864
+      cell instruct_10: -78940165776978805
+      cell instruct_11: -494270683219054784
+      cell instruct_12: 1346225576071950204
+      cell instruct_13: 3962524210726837910
+      cell instruct_14: 5130912321853750988
+      cell instruct_15: 4210407361092670886
+      cell instruct_16: 8789018434665082181
+      cell instruct_17: -4395196841660919177
+      cell instruct_18: 8237184359502634170
+      cell instruct_19: -8059771625258107128
+      cell instruct_2: -7072448581441963989
+      cell instruct_20: 6176472761616830943
+      cell instruct_21: -5537170772898779745
+      cell instruct_22: -3827456503719208359
+      cell instruct_23: -5686857213016320014
+      cell instruct_24: 419053374064447792
+      cell instruct_25: 1189357442537670076
+      cell instruct_26: 3265406392796042522
+      cell instruct_27: -6688308723596510020
+      cell instruct_28: -6880638313025640073
+      cell instruct_29: 1969751542372917659
+      cell instruct_3: 7319252290644959196
+      cell instruct_30: -5524137838605347937
+      cell instruct_31: -4751739150933541968
+      cell instruct_32: -7913125595051062694
+      cell instruct_33: 8845874720024029819
+      cell instruct_34: 6702489177979586271
+      cell instruct_35: -5016905279307102046
+      cell instruct_36: 3420272715999551661
+      cell instruct_37: 3902476006501905946
+      cell instruct_38: -8102370067969497265
+      cell instruct_39: -565688770988785049
+      cell instruct_4: -6566896865517076167
+      cell instruct_40: 793589627009356211
+      cell instruct_41: -4830393730412224755
+      cell instruct_42: 5355272536949068168
+      cell instruct_43: -5122255215364637504
+      cell instruct_44: 5203123369579855771
+      cell instruct_45: 990799337480499834
+      cell instruct_46: -6394584829397155726
+      cell instruct_47: -4781063145401539078
+      cell instruct_48: 7338171839432082678
+      cell instruct_49: 6232465005028327956
+      cell instruct_5: -8345870435661461721
+      cell instruct_50: 2214243501657993970
+      cell instruct_51: 7512607260724529944
+      cell instruct_52: -5833296501601971938
+      cell instruct_53: -9058710023900569245
+      cell instruct_54: 5927636522676516330
+      cell instruct_55: 8858424721007831248
+      cell instruct_56: 5669531979282205228
+      cell instruct_57: -1052197859296308839
+      cell instruct_58: -3653327676703259569
+      cell instruct_59: 5883494765693197602
+      cell instruct_6: -9216319045611975288
+      cell instruct_60: -7868777639793395841
+      cell instruct_61: -7911807647065525286
+      cell instruct_62: 9093913575092551550
+      cell instruct_63: 3048220087609112413
+      cell instruct_64: 8418389483011149052
+      cell instruct_65: 2284825141259623338
+      cell instruct_66: -3345980830906692168
+      cell instruct_67: -164948711642819291
+      cell instruct_68: 8918453351929473559
+      cell instruct_69: -5029107819259949801
+      cell instruct_7: 3466807924960515537
+      cell instruct_70: 3647976684212384269
+      cell instruct_71: 7496041911308159992
+      cell instruct_72: 84789694132666411
+      cell instruct_73: -1311209744211764622
+      cell instruct_74: -2924380904125026223
+      cell instruct_75: 839946364711581708
+      cell instruct_76: -6796127173884613060
+      cell instruct_77: -3339481508562329650
+      cell instruct_78: 2368785725249299405
+      cell instruct_79: 6748904335335375609
+      cell instruct_8: -2725611460524372550
+      cell instruct_80: 7587719949502338466
+      cell instruct_81: -2234791465448562177
+      cell instruct_82: 8224249761066559253
+      cell instruct_83: -8852391854596666680
+      cell instruct_84: 9161762108010325257
+      cell instruct_85: 1707793113212023263
+      cell instruct_9: -6515984704748349225
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
