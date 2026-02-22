@@ -15,11 +15,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Careale Scenes/CW_Application.unity
     guid: f2eb3818ae41f46ec98ad15b1af10866
   - enabled: 1
-    path: Assets/Scenes/Careale Scenes/CW_Interview.unity
-    guid: 5bf11e712bd874508b4636b3e1bea1f5
-  - enabled: 1
     path: Assets/Scenes/Careale Scenes/CW_Phone.unity
     guid: 14e92cbba79874febb2bf2544ab37b78
+  - enabled: 1
+    path: Assets/Scenes/Careale Scenes/CW_Interview.unity
+    guid: 5bf11e712bd874508b4636b3e1bea1f5
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
