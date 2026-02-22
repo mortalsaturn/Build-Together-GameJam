@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
 using UnityEngine.UIElements;
+using UnityEngine.SceneManagement;
 
 public class KeywordManager : MonoBehaviour
 {
@@ -41,6 +42,7 @@ public class KeywordManager : MonoBehaviour
                         {
                             finishedApp = true;
                             spawners.SetActive(false);
+                            LoadNextScene();
                         }
                         break;
                     case > 0:
@@ -51,5 +53,11 @@ public class KeywordManager : MonoBehaviour
                 }
             }
         }
+    
+    }
+    public void LoadNextScene()
+    {
+        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        SceneManager.LoadScene(currentSceneIndex + 1);
     }
 }

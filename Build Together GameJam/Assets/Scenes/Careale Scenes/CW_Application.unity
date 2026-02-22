@@ -452,32 +452,44 @@ PrefabInstance:
       value: -180.5591
       objectReference: {fileID: 0}
     - target: {fileID: 3725584968774906021, guid: 88ad816bad71f4509b996989bba74742, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3725584968774906021, guid: 88ad816bad71f4509b996989bba74742, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.999962
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3725584968774906021, guid: 88ad816bad71f4509b996989bba74742, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3725584968774906021, guid: 88ad816bad71f4509b996989bba74742, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3725584968774906021, guid: 88ad816bad71f4509b996989bba74742, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.008726558
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3725584968774906021, guid: 88ad816bad71f4509b996989bba74742, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 34.377
+      value: 34.376953
       objectReference: {fileID: 0}
     - target: {fileID: 3725584968774906021, guid: 88ad816bad71f4509b996989bba74742, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 54.9482
+      value: 54.948242
       objectReference: {fileID: 0}
     - target: {fileID: 3725584968774906021, guid: 88ad816bad71f4509b996989bba74742, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3725584968774906021, guid: 88ad816bad71f4509b996989bba74742, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3725584968774906021, guid: 88ad816bad71f4509b996989bba74742, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4912170233978038946, guid: 88ad816bad71f4509b996989bba74742, type: 3}
       propertyPath: m_SizeDelta.x
