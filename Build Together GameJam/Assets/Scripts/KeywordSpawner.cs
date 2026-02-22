@@ -17,6 +17,7 @@ public class KeywordSpawner : MonoBehaviour
     public GameObject keywordObject;
     Keyword keyword;
     float elapsedSecs = 0f;
+    public int spawnEvery;
     bool spawnCooldown;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -30,11 +31,11 @@ public class KeywordSpawner : MonoBehaviour
     {
         elapsedSecs += Time.deltaTime;
         float elapsedSecsRounded = Mathf.Round(elapsedSecs);
-        if (!spawnCooldown && elapsedSecsRounded % 3 == 0)
+        if (!spawnCooldown && elapsedSecsRounded % spawnEvery == 0 && elapsedSecsRounded != 0)
         {
             SpawnKeyword();
         }
-        if (elapsedSecsRounded % 3 != 0)
+        if (elapsedSecsRounded % spawnEvery != 0)
         {
             spawnCooldown = false;
         }

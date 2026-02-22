@@ -47,7 +47,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e3dc67dab1fd54bf595204a7d521980f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  keywordManager: {fileID: 0}
   scrollSpeed: 3
   moveDir: {x: 0, y: 0, z: 0}
 --- !u!61 &7724766682965970840
@@ -268,7 +267,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - {fileID: -6315889198389643562, guid: 18743aab470974a1e8da0365d556f677, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -314,8 +313,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Keyword
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 18743aab470974a1e8da0365d556f677, type: 2}
+  m_sharedMaterial: {fileID: -6315889198389643562, guid: 18743aab470974a1e8da0365d556f677, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

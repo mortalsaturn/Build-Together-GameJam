@@ -6,9 +6,7 @@ using UnityEngine.InputSystem;
 [RequireComponent(typeof(BoxCollider2D))]
 public class Keyword : MonoBehaviour
 {
-    bool managerInitialized = false;
     TextMeshPro keywordText;
-    BoxCollider2D col;
 
     public enum Type
     {
@@ -57,7 +55,6 @@ public class Keyword : MonoBehaviour
     void Start()
     {
         keywordText = GetComponentInChildren<TextMeshPro>();
-        col = GetComponent<BoxCollider2D>();
 
         keywordType = Random.Range(0, 2) == 0 ? Type.Skill : Type.Schedule;
         isRight = Random.Range(0, 2) == 0;
