@@ -285,6 +285,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Horizontal Bar
       objectReference: {fileID: 0}
+    - target: {fileID: 1089864490860050604, guid: 88ad816bad71f4509b996989bba74742, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1740553424478256484, guid: 88ad816bad71f4509b996989bba74742, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 169
