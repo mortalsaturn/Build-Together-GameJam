@@ -6,11 +6,11 @@ using UnityEngine.InputSystem;
 [RequireComponent(typeof(BoxCollider2D))]
 public class Keyword : MonoBehaviour
 {
-    public KeywordManager keywordManager;
+    bool managerInitialized = false;
     TextMeshPro keywordText;
     BoxCollider2D col;
 
-    enum Type
+    public enum Type
     {
         Skill,
         Schedule,
@@ -86,20 +86,20 @@ public class Keyword : MonoBehaviour
     void Update()
     {
         Move();
-        if (Mouse.current.leftButton.wasPressedThisFrame)
-        {
-            Vector2 worldPoint = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
-            RaycastHit2D hit = Physics2D.Raycast(worldPoint, Vector2.zero);
-
-            if (hit.collider != null && hit.collider.TryGetComponent(out Keyword keyword))
-            {
-                keywordManager.keywords.Add(hit.collider.GetComponent<Keyword>());
-            }
-        }
     }
 
     void Move()
     {
         transform.Translate(moveDir * Time.deltaTime * scrollSpeed);
+    }
+
+    public KeywordData ToData()
+    {
+        return new KeywordData
+        {
+            type = keywordType,
+            isRight = isRight,
+            text = keywordText.text,
+        };
     }
 }
