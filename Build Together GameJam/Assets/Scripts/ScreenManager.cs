@@ -3,6 +3,7 @@ using UnityEngine;
 public class ScreenManager : MonoBehaviour
 {
     public GameObject badScreen;
+    float elapsedSecs = 0;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start() { }
@@ -10,7 +11,8 @@ public class ScreenManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Time.time >= 5f)
+        elapsedSecs += Time.deltaTime;
+        if (elapsedSecs >= 5f)
         {
             badScreen.SetActive(true);
         }

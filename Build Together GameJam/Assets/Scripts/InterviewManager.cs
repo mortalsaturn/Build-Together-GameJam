@@ -4,6 +4,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.InputSystem.Controls;
+using UnityEngine.SceneManagement;
 
 public class InterviewManager : MonoBehaviour
 {
@@ -215,7 +216,7 @@ public class InterviewManager : MonoBehaviour
 
         if (Time.time >= turnStartTime + waitSecs)
         {
-            Debug.Log("Game end");
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
     }
 }
